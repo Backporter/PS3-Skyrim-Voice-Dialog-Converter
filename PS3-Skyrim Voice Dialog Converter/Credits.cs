@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Diagnostics;
 
 namespace PS3_Skyrim_Voice_Dialog_Converter
 {
@@ -15,6 +16,11 @@ namespace PS3_Skyrim_Voice_Dialog_Converter
         public Credits()
         {
             InitializeComponent();
+        }
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            Process.Start("https://discord.gg/twpSyYp");
         }
     }
 }
