@@ -1,0 +1,12 @@
+C:\Users\Logan Melott\source\repos\PS3-Skyrim Voice Dialog Converter\PS3-Skyrim Voice Dialog Converter\bin\Release\PS3-Skyrim Voice Dialog Converter.exe.config
+C:\Users\Logan Melott\source\repos\PS3-Skyrim Voice Dialog Converter\PS3-Skyrim Voice Dialog Converter\bin\Release\PS3-Skyrim Voice Dialog Converter.exe
+C:\Users\Logan Melott\source\repos\PS3-Skyrim Voice Dialog Converter\PS3-Skyrim Voice Dialog Converter\bin\Release\PS3-Skyrim Voice Dialog Converter.pdb
+C:\Users\Logan Melott\source\repos\PS3-Skyrim Voice Dialog Converter\PS3-Skyrim Voice Dialog Converter\obj\Release\PS3-Skyrim Voice Dialog Converter.csprojAssemblyReference.cache
+C:\Users\Logan Melott\source\repos\PS3-Skyrim Voice Dialog Converter\PS3-Skyrim Voice Dialog Converter\obj\Release\PS3_Skyrim_Voice_Dialog_Converter.Credits.resources
+C:\Users\Logan Melott\source\repos\PS3-Skyrim Voice Dialog Converter\PS3-Skyrim Voice Dialog Converter\obj\Release\PS3_Skyrim_Voice_Dialog_Converter.FUZ_WAV.resources
+C:\Users\Logan Melott\source\repos\PS3-Skyrim Voice Dialog Converter\PS3-Skyrim Voice Dialog Converter\obj\Release\PS3_Skyrim_Voice_Dialog_Converter.Main.resources
+C:\Users\Logan Melott\source\repos\PS3-Skyrim Voice Dialog Converter\PS3-Skyrim Voice Dialog Converter\obj\Release\PS3_Skyrim_Voice_Dialog_Converter.Properties.Resources.resources
+C:\Users\Logan Melott\source\repos\PS3-Skyrim Voice Dialog Converter\PS3-Skyrim Voice Dialog Converter\obj\Release\PS3-Skyrim Voice Dialog Converter.csproj.GenerateResource.cache
+C:\Users\Logan Melott\source\repos\PS3-Skyrim Voice Dialog Converter\PS3-Skyrim Voice Dialog Converter\obj\Release\PS3-Skyrim Voice Dialog Converter.csproj.CoreCompileInputs.cache
+C:\Users\Logan Melott\source\repos\PS3-Skyrim Voice Dialog Converter\PS3-Skyrim Voice Dialog Converter\obj\Release\PS3-Skyrim Voice Dialog Converter.exe
+C:\Users\Logan Melott\source\repos\PS3-Skyrim Voice Dialog Converter\PS3-Skyrim Voice Dialog Converter\obj\Release\PS3-Skyrim Voice Dialog Converter.pdb
